@@ -5,6 +5,6 @@ import { StoplightProject } from "@stoplight/elements-dev-portal";
 
 render(
   <StoplightProject projectId="cHJqOjYyNTgw" />,
-  //   <h1>Stoplight</h1>,
+  // <h1>Stoplight</h1>,
   document.getElementById("app")
 );
